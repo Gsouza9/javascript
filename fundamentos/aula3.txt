@@ -1,0 +1,4 @@
+Funções
+
+Podemos usar let ou const para criar uma função anônima, a vantagem de criar 
+funções dessa forma é armazenar o resultado da execução.
